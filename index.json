@@ -1,0 +1,11 @@
+{
+  "org": "hashicorp",
+  "repo": "go-retryablehttp",
+  "versions": [
+    {
+      "commit": "fd004584a46724fae09e2f21d7c382e15c893f42",
+      "tag": "",
+      "parsed_at": "2026-11-10T00:56:32.093596+00:00"
+    }
+  ]
+}
