@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hashicorp/go-retryablehttp/commit/fd004584a46724fae09e2f21d7c382e15c893f42",
       "git:hexsha": "fd004584a46724fae09e2f21d7c382e15c893f42",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hashicorp/go-retryablehttp/commit/4502c0ecdaf0b50d857611af23831260f99be6bf",

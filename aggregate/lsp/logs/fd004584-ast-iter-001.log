@@ -1,0 +1,7 @@
+[2026-11-10T00:55:21Z] === AST ITERATION 1 START | repo=hashicorp/go-retryablehttp sha=fd004584 ===
+[2026-11-10T00:55:21Z] [iter=1] PHASE START: ast repo=hashicorp/go-retryablehttp sha=fd004584
+[2026-11-10T00:55:21Z] [iter=1] Building AST aggregate chunks
+[2026-11-10T00:55:31Z] [iter=1] AST chunks built count=1 triples=96850
+[2026-11-10T00:55:31Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/fd004584a46724fae09e2f21d7c382e15c893f42/.complete
+[2026-11-10T00:55:31Z] [iter=1] PHASE END: ast elapsed_s=11 elapsed_min=0.2
+[2026-11-10T00:55:31Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
